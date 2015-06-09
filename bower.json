@@ -1,0 +1,15 @@
+{
+  "name": "parse-address-bobbr",
+  "description": "Forked from hassansin/parse-address",
+  "author": "hassansin, forked by Bob Ullery",
+  "version": "0.0.4",
+  "license": "ISC",
+  "main": "parse-address.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobbr/parse-address"
+  },
+  "dependencies": {
+    "xregexp": "^2.0.0"
+  }
+}
